@@ -1,10 +1,87 @@
 .main{
-height: 800px;
+height: 2000px;
 width: 800px;
 margin: 20px auto;
-border: 2px solid;
+
+}
+.hairdrh{
+font-size: 20px;
+font-family: cursive;
+color: honeydew;
+}
+
+.links{
+color: honeydew;
+margin-left: 10px; 
 }
 
 .search{
-float: right; 
+float: right;
 }
+
+.cst{
+top: 40px;
+height: 400px;
+}
+
+.img1{
+height: 400px;
+}
+
+.img2{
+height: 400px;
+}
+
+.img3{
+height: 400px;
+}
+
+.Schrift1{
+color: white;
+font-family: cursive;
+font-size: 30px;
+}
+
+.box1{
+height: 200px;
+width: 200px;
+border: 2px solid white;
+top: 100px;
+position: relative;
+display: inline-block;
+margin: 30px;
+
+}
+
+.box2{
+height: 200px;
+width: 200px;
+border: 2px solid white;
+top: 100px;
+position: relative;
+display: inline-block;
+margin: 30px;
+}
+
+.box3{
+height: 200px;
+width: 200px;
+border: 2px solid white;
+top: 100px;
+position: relative;
+display: inline-block;
+margin: 30px;
+
+}
+
+.fst{
+top: 140px;
+position: relative;
+width: 400px;
+}
+
+.ast{
+position: relative;
+top: 200px;
+}
+
